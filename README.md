@@ -1,9 +1,5 @@
 # node-base
-Base de node para criação de API
-
-### Lembre-se:
--> Atualizar o model de acordo com seu BD
--> A conexão do BD está para o MYSQL(Lembrar de conectar instalar o mysql2)
+API de lista de tarefas com node usando mysql como BD
 
 
 ### Pré requisitos globais:
